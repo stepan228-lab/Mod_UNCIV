@@ -1,0 +1,7 @@
+echo "# Mod_UNCIV" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/stepan228-lab/Mod_UNCIV.git
+git push -u origin main
